@@ -1,0 +1,6 @@
+tensorflow
+keras
+line-bot-sdk
+Flask
+opencv-python
+numpy
